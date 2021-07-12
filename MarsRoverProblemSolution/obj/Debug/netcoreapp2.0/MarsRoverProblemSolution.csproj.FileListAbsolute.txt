@@ -1,0 +1,2 @@
+D:\Dev\github\MarsRoverProblemSolution\obj\Debug\netcoreapp2.0\MarsRoverProblemSolution.csprojAssemblyReference.cache
+D:\Dev\github\MarsRoverProblemSolution\obj\Debug\netcoreapp2.0\MarsRoverProblemSolution.csproj.CoreCompileInputs.cache
